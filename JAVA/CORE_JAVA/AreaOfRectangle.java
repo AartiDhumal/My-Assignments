@@ -4,14 +4,16 @@ public class AreaOfRectangle {
     private int length = 12;
     private int breadth = 24;
 
-    public int getLength() {
-        return length;
-    }
+//     public int getLength() {
+//         return length;
+//     }
 
-    public int getBreadth() {
-        return breadth;
-    }
+//     public int getBreadth() {
+//         return breadth;
+//     }
 
+    //add setters and use setters to set values
+       //never use HardCode values
     public static void main(String[] args) {
         int Area;
 
